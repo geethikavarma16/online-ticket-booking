@@ -1,0 +1,7 @@
+{
+  "name": "CineWave Entertainment",
+  "description": "Pega Case Management Application for CineWave Entertainment Movie Ticket Booking Lifecycle, Data Objects, Work Queues, SLA & Automations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
